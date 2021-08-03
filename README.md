@@ -1,5 +1,8 @@
 ## Adafruit PCF8523 RTC Breakout PCB
 
+<a href="http://www.adafruit.com/products/5189"><img src="assets/5189.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a>
+
 <a href="http://www.adafruit.com/products/3295"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
